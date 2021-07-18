@@ -1,0 +1,16 @@
+body
+{
+    font-family: 'Special Elite', cursive;
+    background: #c1ee85;
+}
+
+.text_images_and_result
+ {
+     background: rgb(163, 209, 236);
+     color: rgb(77, 92, 53);
+}
+ 
+.text_images_and_result img{
+    width: 100;
+    height: 100;
+}
